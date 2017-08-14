@@ -1,0 +1,14 @@
+{
+    "name": "Шаблон модуля",
+    "icon": "fa-font",
+    "version": "1.00.00",
+    "release_date": "2017-08-14",
+    "description": "Заготовка модуля для XR.CMS",
+    "author": {
+        "name": "Вершинин Павел Николаевич",
+        "email": "feedback@xr-cms.ru",
+        "site": "https://xr-cms.ru"
+    },
+    "home_page": "https://xr-cms.ru",
+    "minimum_cms_version": "1.00.000"
+}
